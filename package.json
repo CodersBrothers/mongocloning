@@ -1,0 +1,32 @@
+{
+  "name": "mongocloning",
+  "description": "Clone a MongoDB database from a server to other server",
+  "version": "0.0.1",
+  "author": "CodersBrothers",
+  "homepage": "https://github.com/CodersBrothers/mongocloning",
+  "bugs": {
+    "url": "https://github.com/CodersBrothers/mongocloning/issues"
+  },
+  "keywords": [
+    "mongodb",
+    "clone",
+    "migrate",
+    "copy",
+    "mongolab",
+    "backup"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodersBrothers/mongocloning.git"
+  },
+  "dependencies": {
+    "coolors": "0.0.2",
+    "mongodb": "^1.4.33"
+  },
+  "main": "app",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
