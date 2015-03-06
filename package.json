@@ -23,7 +23,7 @@
     "coolors": "0.0.2",
     "mongodb": "^1.4.33"
   },
-  "main": "app",
+  "main": "mongocloning",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
